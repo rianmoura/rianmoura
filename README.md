@@ -15,3 +15,13 @@
    <img align="center" alt="Rian-PS" height="30" width="40" 
    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg">
 </div>
+
+ ##
+ 
+<div> 
+  
+  <a href="https://www.linkedin.com/in/rian-moura-5a75a226b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.behance.net/milesdesign" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/mourariann/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  
+</div>
