@@ -11,7 +11,7 @@
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Rian-Figma" height="30" width="40" 
-   src="https://raw.github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg">
    <img align="center" alt="Rian-PS" height="30" width="40" 
-   src="https://raw.github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
+   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg">
 </div>
